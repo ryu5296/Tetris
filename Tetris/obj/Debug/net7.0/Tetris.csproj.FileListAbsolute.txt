@@ -12,3 +12,17 @@
 /Users/matsugiryuu/Projects/Tetris/Tetris/obj/Debug/net7.0/Tetris.pdb
 /Users/matsugiryuu/Projects/Tetris/Tetris/obj/Debug/net7.0/Tetris.genruntimeconfig.cache
 /Users/matsugiryuu/Projects/Tetris/Tetris/obj/Debug/net7.0/ref/Tetris.dll
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/Tetris.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/Tetris.AssemblyInfoInputs.cache
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/Tetris.AssemblyInfo.cs
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/Tetris.csproj.CoreCompileInputs.cache
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/Tetris.dll
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/refint/Tetris.dll
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/Tetris.pdb
+/Users/matsugiryuu/Tetris/Tetris/bin/Debug/net7.0/Tetris
+/Users/matsugiryuu/Tetris/Tetris/bin/Debug/net7.0/Tetris.deps.json
+/Users/matsugiryuu/Tetris/Tetris/bin/Debug/net7.0/Tetris.runtimeconfig.json
+/Users/matsugiryuu/Tetris/Tetris/bin/Debug/net7.0/Tetris.dll
+/Users/matsugiryuu/Tetris/Tetris/bin/Debug/net7.0/Tetris.pdb
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/Tetris.genruntimeconfig.cache
+/Users/matsugiryuu/Tetris/Tetris/obj/Debug/net7.0/ref/Tetris.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fm4JV1QMdUbzG9GvWHf9AIEuNX+Lbp8aHtqwljQwwEnNzfZWGf9X8ySoMF+Y1XGS3r/HmBv/9A4OaF/bHS3FLw==",
+  "dgSpecHash": "Gjiip+ZcMMPUmvmPLnJSoSctScMF6VN0ZiVlJeD9bbsg7SV0ArqHvwsAJa9DovaojfwsXhRZKsQpl47WbflYBw==",
   "success": true,
-  "projectFilePath": "/Users/matsugiryuu/Projects/Tetris/Tetris/Tetris.csproj",
+  "projectFilePath": "/Users/matsugiryuu/Tetris/Tetris/Tetris.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

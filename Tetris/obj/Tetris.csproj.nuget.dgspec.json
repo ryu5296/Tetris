@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matsugiryuu/Projects/Tetris/Tetris/Tetris.csproj": {}
+    "/Users/matsugiryuu/Tetris/Tetris/Tetris.csproj": {}
   },
   "projects": {
-    "/Users/matsugiryuu/Projects/Tetris/Tetris/Tetris.csproj": {
+    "/Users/matsugiryuu/Tetris/Tetris/Tetris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matsugiryuu/Projects/Tetris/Tetris/Tetris.csproj",
+        "projectUniqueName": "/Users/matsugiryuu/Tetris/Tetris/Tetris.csproj",
         "projectName": "Tetris",
-        "projectPath": "/Users/matsugiryuu/Projects/Tetris/Tetris/Tetris.csproj",
+        "projectPath": "/Users/matsugiryuu/Tetris/Tetris/Tetris.csproj",
         "packagesPath": "/Users/matsugiryuu/.nuget/packages/",
-        "outputPath": "/Users/matsugiryuu/Projects/Tetris/Tetris/obj/",
+        "outputPath": "/Users/matsugiryuu/Tetris/Tetris/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matsugiryuu/.nuget/NuGet/NuGet.Config"
